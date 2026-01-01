@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 👋 About Me<br><br>I'm a passionate **Software Developer** with strong experience in **C#**, **.NET Core**, **.NET Framework**, **Azure**, **SQL Server**, **NoSQL**, **Web API**, **Microservices**, and **Angular 16**.<br><br>I thrive in **collaborative, fast-paced environments**, and I’m always eager to take on new challenges that foster both personal and organizational growth.<br><br>Currently, I'm working as a **Senior Backend Developer at Stewart Title**, where I help build **scalable, high-performance systems**.<br><br>I'm always learning, evolving, and aiming to make impactful contributions through innovative solutions. 🚀<br>
+# 👋 Hello I am Rudra:
+## About Me<br><br>I'm a passionate **Software Developer** with strong experience in **C#**, **.NET Core**, **.NET Framework**, **Azure**, **SQL Server**, **NoSQL**, **Web API**, **Microservices**, and **Angular 16**.<br><br>I thrive in **collaborative, fast-paced environments**, and I’m always eager to take on new challenges that foster both personal and organizational growth.<br><br>Currently, I'm working as a **Senior Backend Developer at Stewart Title**, where I help build **scalable, high-performance systems**.<br><br>I'm always learning, evolving, and aiming to make impactful contributions through innovative solutions. 🚀<br>
 
 
 ## 🌐 Socials:
